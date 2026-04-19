@@ -1,3 +1,4 @@
+# notes
 to-do:
 - blur background or use flower's black background
 - set initials only above your head so you know where you are

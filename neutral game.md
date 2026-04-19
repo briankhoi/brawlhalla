@@ -40,7 +40,7 @@ defenders will avoid your attack based on:
 - stage control
 	- they can back up if they're in middle of stage, but if they're on edge that's one less option for them (so they're more inclined to jump or cross you to go center of stage)
 - the types of attacks your character/weapon has
-	- visualize your threat zones to see what your opponent is scared of and what they don't respect. example: ![[Pasted image 20260417223811.png]]
+	- visualize your threat zones to see what your opponent is scared of and what they don't respect. example: ![[images/Pasted image 20260417223811.png]]
 	- so notice when opponent is in those threat zones, and if they're just sitting or standing there, then they don't respect it and you can hit them
 - their damage (i.e. if they're low, they may react more defensively than normal)
 
