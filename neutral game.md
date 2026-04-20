@@ -56,8 +56,8 @@ more attacker behavior:
 	- them always fast falling
 	- sometimes if they're in the red, they might be more defensive and go back to opposite end of stage
 - same attacker principles apply to in-air as well, like if you're both parallel and they do not respect you, you can just go for a sair
-
-
+- your opponent will likely adapt throughout the game. it's up to you to pressure and constantly observe what they do. (for example, if they always spot dodge when you go near, wait then punish, then if they adapt and disrupt, then bait it out then punish)
+- be discrete by moving after you hit them to analyze. if you just stand there, they'll know you're trying to read them. you can also try soft reading (e.g. spear slight cc nair instead of explicit dlight) to not give it away
 
 
 defender's job:

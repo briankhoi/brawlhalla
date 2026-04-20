@@ -52,3 +52,23 @@ good:
 wins:
 - won series 2-1 vs current plat1 player and leading by damage in all games, just need learn and practice how to kill earlier
 - implemented some of the fixes from yesterday, such as reading their dodge and punishing them for it. still only did it once and it needs practice, but good that you're being more conscious overall and critically thinking during games
+
+## 4/19
+
+replay #1:
+they always dodge in/sideways
+always land with a nair or sair
+don't always dodge after an attack
+dont use most of their jumps or dodge before landing
+recognized that they were blasters so no aerial options so i stacked on them and spammed spear nair which worked really well, made them instead do nix blasters nsig which is slow so i also punished that
+
+didnt realize in the moment but there were quite some times they anticipated my attack and backdashed, i couldve capitalized on this behavior by emptyhop nair? or turning in their direction to bait an attack action then turn reverse where they dash then sair? is this even feasible
+
+weapon starved good
+
+they were dodging in all game but never noticed till last stock
+
+if they awlays nair/sair when they land and they land a distance from me, i should anticpate that and jump beforehand
+
+
+replay #2:

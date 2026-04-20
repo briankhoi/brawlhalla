@@ -19,6 +19,8 @@ general behavior:
 - if they're high damage, start fishing for kill options like a sig or dlight recv instead of random neutral strings
 - wait for them to attack, then punish, don't just randomly chuck attacks around
 - don't try to immediately punish everything. some things you're not in the right position to punish, so you keep going for it, they dodge, and punish you instead. think more critically in terms of positioning and spacing
+- stop chasedodging, does nothing but put you in disadvantage state. instead just dash cancel
+- since you have issues with memorize opponent behavior, try saying it out loud when you see it to practice (not competitively but like when training)
 
 
 questions:
