@@ -30,3 +30,6 @@ more tips for reading people:
 also note that you won't be able to pressure the same way all the time. so because of that it's important to always be mixing up how you approach people, for example maybe you backdodge or approach aerially or just straight up attacking them instead of delaying.
 
 also learn why people panic the way they do. 
+
+
+to-do: learn the diff types of movement and how to incorporate them into pressure. stingray did a section of this. rn you only use emptyhop to pressure. dont know how to use dashcancel or fastfall change dir etc.

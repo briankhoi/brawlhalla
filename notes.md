@@ -1,8 +1,8 @@
 # notes
 to-do:
-- blur background or use flower's black background
-- set initials only above your head so you know where you are
-- run game in admin mode?? why look into it
+- blur background or use flower's black background/set black similar to impala, look in modhalla for instructions
+- (done) set initials only above your head so you know where you are
+- run game in admin mode?? why look into it ppl say it's better perf?
 - disable gadgets
 - set a banned map
 

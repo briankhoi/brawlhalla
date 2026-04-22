@@ -70,5 +70,61 @@ they were dodging in all game but never noticed till last stock
 
 if they awlays nair/sair when they land and they land a distance from me, i should anticpate that and jump beforehand
 
+# 4/20
+replay #1:
+- review:
+	- have better option select, so many times they dodged in front of you, and rather than bow slight to immediately punish, you greeded for dlight and they just jumped out of it
+	- continue practicing analyzing opponent, still hard to do that and more importantly even when you make these observations you don't ever capitalize on that
+	- stop trying to punish things you can't/greeding for the punish. practice either pretending punish to bait them or just reset back to neutral
+	- stop doing random edgeguard stuff like a random bow dair unless you know they will jump/why not just dash jump fastfall and pretend to dair instead
+- good:
+	- you had good mixup of edgeguard lke low then high
 
-replay #2:
+# 4/22
+
+replay #1: vs. lucien
+- review:
+	- using bow dair on stage to break neutral, way too slow, and it's not even being used to punish so bad option select
+	- critically think more and use better option select, they did katars dsig in front of you and instead of spear slight punish you did dlight... ;-;
+	- when you play avoidant yourself in defender state, you sometimes lose track of how many jumps you have and try to bait their attack while you're on the edge and while you have few options/resources, so you either randomly fall since you have no jumps or easily get gimped with no ways to get back since you only had like one jump left
+	- you keep trying to greed punish things that you can't. this is dangerous since you won't always get punished for that which can lead to you subconsciously approving it, which is a bad habit
+	- think of their threat zones more proactively. they had katars and you had spear, and you know that they always land with an attack, so you could've just been patient, but instead you jumped into them, into their threat zone of nair dair (and katars is faster startup frames than spear too) and just got immediately punished
+	- although you identified that they always land with an attack, you only had this in mind for the first stock. after that, you completely forgot and just did not respect them or continue your strategy despite it working. you didn't even try analyzing again and seeing if they adapted or not (they did not). remember that during neutral you are always trying to gain information, not just like only in the beginning
+	- you saw that they had limited options in the air so you bow recv, but they dodged. this reminded you about the lesson on pressure and that you should apply it, but in subsequent interactions, you never did. however your games today were more so focused on training on the act of obtaining information during neutral. as a result, this is more so of a reminder rather than a review/fix.
+	- bad habit of always chucking out recv after nairs, be a bit more observant/mix it up
+	- tried to do a random dash spear dlight to break neutral when you were half a stage away and got punished by blasters sair, just don't try to break neutral with that it's so slow and should only be used if they're in your face airy playstyle or for slight punish
+	- they caught on that you always land with nair and dashed out and punished, but you never realized so you kept doing it. not only should you analyze your actions as an attacker, but also in general you should mix it up a bit (pressure them with nair threat); but since this session is focused on obtaining info from opponent, this is also somewhat of a reminder rather than review/fix.
+- good:
+	- your goal was to practice obtaining more information from your opponent, and you actually did that decently well, capitalized off of the observations in next two bullets consistently throughout the game
+	- noticed from their dodge and tendency to run away that they're that type of like avoidant playstyle, so capitalized on their dodge away to punish
+	- then, after they got caught with that, observed that they immediately switched to the opposite, dodging in and being more aggressive (aligning with sting ray's point of how they'll prob do the opposite thing after cause they don't ever want to be punished like that again)
+	- recognized that whenever there's a half-stage ish gap between us, they always like to spam katars dsig so when you had that distance, you baited it out and punished
+	- saw that they always land with a katars attack like dair or nair, so always would stand still then dash out to bait them, then punish - did this really consistently well
+	- your item throws were pretty consistent this game and not bad. you normally do it slow but today took time to practice it in training tool to do it fast, and it worked really well. just need to keep doing it and keep it consistent like this game
+	- when you get weapon starved, you're not always immediately gunning for the weapon, and not taking an obvious path to it too, so not getting punished and instead punished them for predicting and throwing an attack at the weapon, which let me retrieve it ultimately
+
+replay #2: vs. thea
+- review:
+	- bad option select, they're stacked on you with spear and you somehow thought nlight could work, just dsig
+	- greeding for punish as always but instead. you get punished
+	- you keep always landing with nair
+	- you keep trying to dlight on bow to edgeguard them when the recovery and startup frames are so expensive and you just get punished/give them free opportunity to get back up. instead, practice jumping over them and baiting like you'll gp or smt then sair them or smt
+	- despite you practicing marckiemoo's bow string of slight dash jump into them then react based on their movement like sair or nair, you never did any of that, you just sair and let them go. not even try to watch their dodge to maybe dlight or sair again
+	- stop going aggressive off-stage with bow. you got knocked off and instead of trying to get back, you dair'ed randomly and wasted a jump then got gimped. bow's objective is to maintain stage and it's terrible offstage, so be more critically aware of your weapon's playstyle
+- good:
+	- you recognized everytime with boots when they get you off-stage they try to go diagonally downward, so next time you adapted and went up so they went down by themselves
+	- when stacked on bow you didn't panick, used nlight
+
+replay #3: vs. nix
+- review:
+	- missed true combo of spear dlight recv, practice!!
+	- stop throwing out random attacks, remember to visualize threat zones and if they're in yours or not
+	- again, stop randomly bow dlight when they're on edge, is so risky and lets them punish or recover back on stage for free
+	- also jumped around too much when you're on edge of stage as a defender and didn't realize you ran out of jumps
+	- you dodged up due to their pressure (otherwise you would've landed in their scythe threat zone for nlight), but in doing so, you ran out of all options, and thus you should've landed on the platform but you just floated back down. they didn't punish but still
+	- need to consistently focus. you focus on the first stock and constantly get information and remind yourself how to play/their tendencies, but that seems to all go away second and third stock
+	- when they pressure you when they edgeguard, you tried to avoid, but in doing so forgot to touch the wall, so make sure to do that. this game you fell down twice due to their pressure/random mishap of running out of jumps, rather than at least dying by hitting wall and they punish which is better since the onus is on them to actually execute that
+- good:
+	- realized they always approach with blasters sair or dash jump dair, so had good spacing around that and like baited their attack. also recognized that it's kind of hard punishing this most of the time at least in regard to your position, so you did not greed for punish
+	- good weapon throws, especially when they're off-stage to make them use a resource
+	

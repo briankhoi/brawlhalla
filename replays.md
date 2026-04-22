@@ -14,3 +14,6 @@ common reasons for losing:
 - greeding for a punish you can't do then getting punished yourself
 - poor option select
 - throwing out random attacks
+
+you can see other reasons in my replay [log](log.md)
+
