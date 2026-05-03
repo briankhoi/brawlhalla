@@ -1,4 +1,12 @@
 # notes
+
+core: i don't mind if i still suck, what matters most for me is improving 1% everyday. as long as i log in, and notice that i improved in at least one aspect, i'm happy
+
+current work:
+- still fundamentals of analyzing them, what do they do when pressured or when i hit them, attacker vs defender, and gaining info during neutral of their habits and punishing. don't think i've mastered that yet
+- movement, you're a bit too predictable aerially
+- tracking people when they're mid air and punishing them
+
 to-do:
 - blur background or use flower's black background/set black similar to impala, look in modhalla for instructions
 - (done) set initials only above your head so you know where you are
@@ -9,6 +17,7 @@ to-do:
 behavior (for now until you learn more):
 - stop going off stage randomly unless they have no jumps, you keep getting gimped
 - read dodges by reading their behavior. for example, seeing what they do after a dodge, like always jumping or smt then trying to capitalize off of that
+- stop randomly bow dairing to edgeguard - i actually don't know about this one, sometimes its good sometimes they just don't do anything so it misses then sair to punish and get back on stage for free
 
 general behavior:
 - benchmark yourself. play unranked 1v1 and training tool until you master a skill. then play ranked 1v1 to benchmark yourself. don't just mindlessly spam ranked games

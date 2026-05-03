@@ -3,7 +3,7 @@
 ## 
 
 
-set bot to attack thne practice running into it and dodging diff dirs/no dodge/jumping
+set bot to attack then practice running into it and dodging diff dirs/no dodge/jumping
 
 practice reads for strings and kill options for both weapons for all dodges
 

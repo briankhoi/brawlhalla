@@ -123,8 +123,32 @@ replay #3: vs. nix
 	- also jumped around too much when you're on edge of stage as a defender and didn't realize you ran out of jumps
 	- you dodged up due to their pressure (otherwise you would've landed in their scythe threat zone for nlight), but in doing so, you ran out of all options, and thus you should've landed on the platform but you just floated back down. they didn't punish but still
 	- need to consistently focus. you focus on the first stock and constantly get information and remind yourself how to play/their tendencies, but that seems to all go away second and third stock
-	- when they pressure you when they edgeguard, you tried to avoid, but in doing so forgot to touch the wall, so make sure to do that. this game you fell down twice due to their pressure/random mishap of running out of jumps, rather than at least dying by hitting wall and they punish which is better since the onus is on them to actually execute that
+	- when they pressure you when edgeguarding, you tried to avoid it, but in doing so forgot to touch the wall, so make sure to do that. this game you fell down twice due to their pressure/random mishap of running out of jumps, rather than at least dying by hitting wall and they punish which is better since the onus is on them to actually execute that
 - good:
 	- realized they always approach with blasters sair or dash jump dair, so had good spacing around that and like baited their attack. also recognized that it's kind of hard punishing this most of the time at least in regard to your position, so you did not greed for punish
 	- good weapon throws, especially when they're off-stage to make them use a resource
-	
+# tips 3/28:
+u analyzed he's aggressive trope always goes for wakeup and sairs when offstage trying to get back on and also when landing onstage so u baited it out then punished also noticed he always spot dodge so u punished albeit did so very late in last stock but also got dlight recv try the practice paying off! and predicted he would dodge in next since hes aggressive trope and i just punished his spot and he did and also punished him for that
+
+replay #1:
+- fix:
+	- stop randomly bow dairing to edgeguard - i actually don't know about this one, sometimes its good sometimes they just don't do anything so it misses then sair to punish and get back on stage for free
+	- did random gc's like gc unarmed slight but on center stage...
+	- focus more on info gathering so just keep practicing like your and their threat zones, or you don't even analyze if they constantly cross you or not
+	- when they read you, try to mix it up more. they read your away dodge and punished really hard 2x
+	- tried reading random stuff just for the sake of it like spear slight cc backwards dlight which is just same as if you just stood still and dlighted so wasted a dodge... like if you're going to read at least have it be based on info you gain in neutral
+	- not thinking of their threat zones as much, keep running into them and disrespecting them without realizing that you're in their range
+	- 
+- good:
+	- analyzed common behaviors from them and was consistently trying to get info
+
+replay #2\/3:
+- fix:
+	- need to weapon starve more
+	- these people are really, really really, good at tracking where i land, so where i land is predictable and they just throw an attack as i'm landing or when im in mid air; be more conscious of this and mix it up with like a emptyhop to bait or just try to fully reset when in disadvantage state, you're not really doing that
+	- practice recovering back to stage when offstage and find multiple ways to do it, you're getting a bit predictable cause you always go up aerially
+	- analyze yourself more during neutral like also capture what they analyzed about you since one game you always spot dodged and didn't notice till last stock
+	- need to stop autopiloting, focus and gain information
+	- people who weapon throw constantly vs. you are really good, you don't really seem to dodge that + it ruins your tempo a lot so that type of playstyle is pretty effective vs. you
+	- if you're good at one weapon but terrible at the other into the opponent just stick to the weapon you're good at. you keep switching and gaining a lead on good weapon but throwing it all away on the bad weapon
+- good:
