@@ -2,6 +2,8 @@
 
 core: i don't mind if i still suck, what matters most for me is improving 1% everyday. as long as i log in, and notice that i improved in at least one aspect, i'm happy
 
+maybe re-map dodge to left shift instead of = to prevent carpal tunnel syndrome
+
 current work:
 - still fundamentals of analyzing them, what do they do when pressured or when i hit them, attacker vs defender, and gaining info during neutral of their habits and punishing. don't think i've mastered that yet
 - movement, you're a bit too predictable aerially
