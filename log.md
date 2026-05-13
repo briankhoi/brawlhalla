@@ -1,85 +1,62 @@
 # log
-## tips 3/27:
 
-fix:
-- stop throwing out dsig when edgeguarding or randomly
-- stop treating everything as neutral, when they're low start fishing for the bow dlight recovery and practice it
-- on spear, stop using dlight blindly - only use it to attack them when on edge via gc dlight, or with read on slight. 
-- try to analyze their dodge each time you slight with a nair, then next time dlight
-- start conditioning them via dlight nlight then switchup with dlight rec or dlight nsig
-- stop going offstage as bow and greeding with ground pound
-- stop randomly throwing weapon offstage unless protecting from gp and stop throwing weapon in general
-- if they throw out  sig or something with high recovery, punish it via a sig or heavier attack/string not just one attack
-- stop trying to read people, more so just play consistently
-- dodge item throws more consistently
-- remember bow and spear are not string weapons or heavy, they more so have good coverage instead and are good for 1-2 attacks at a time, so stop going for super long strings on spear aerially when they're not true, just reset and apply pressure instead of greeding cause you're getting punished for that
-
-good:
-- staying in center of stage more often but should be more conscious of it
-- good juggling of them in air with bow, like keeping them in air via nair and nlight
-- good spacing/punish via dash slight or dlight and consistent strings
-- being aware while on edge of what could kill you, e.g. bodvar sword dsig and trying to outspace and bait that
-- not greeding after spear nlight like impala said but rather just using it as a reset (historically you have greeded nlight cc side sig)
-
-## 3/28:
-
-fix:
-- need to analyze their dodges more consciously with bow and spear then go for dodge punish
-- need to start conditioning them via dlight nlight to analyze jump pattern for nsig 
-- need to play more reactive not aggressive
-- stop dsiging when edge guard
-- if they're in the air punish with nlight or nair or recv u threw out a random slight lol
-- offstage stop gp, just dair or dont do anything
-- when they're in the air, wait for them to use their resources like a dodge then punish, you keep throwing random attacks
-- stop randomly dairing, it's expensive if u miss
-- identify areas where they cant punish you and if so just attack, like they were slightly above platform diagonal to you unarmed, you can just bow nsig and they likely cant punish?
-- stop doing random gc's
-- bad habit of spear nlight cc dlight
-- at the start of match, identify what attack angles their sigs are/kill options, like for example cassidy blasters you can just go diagonal since her sigs are horizontal and vertical
-- you keep letting them stack on you with no punish -> bow nlight and spear dsig
-- stop randomly spear sair
-- go in practie mode and have some character sig from a bit away then dash punish, you keep letting them go which can be good; greeding for punish when you can't is bad but still should be higher rate of punish
-- practice falling recovery? on bow
-- learn and practice how to kill earlier and more consistently. you can kill with kaya from 140-160 roughly and 170+ confirmed. but you let them get to 297 dmg before killing them...
-
-good:
-- in your last game of the day, you took feedback, read that opponent kept dodging down and punished. worth noting that it's still inconsistent, you don't know the punishes through and through yet so study them
-- good juggling and somewhat groundedness and center stage
-- good reactiveness but only tiny steps so far can be improved
-- stopped doing weird stuff offstage
-- used to just cling to wall offstage when recovering which is an easy gp for opponent, but now if stage is not a rectangle but like curved downwards then you just go in that pocket temporarily with a jump, then after they commit a gp you go up and escape since they're in recovery frames
-
-wins:
-- won series 2-1 vs current plat1 player and leading by damage in all games, just need learn and practice how to kill earlier
-- implemented some of the fixes from yesterday, such as reading their dodge and punishing them for it. still only did it once and it needs practice, but good that you're being more conscious overall and critically thinking during games
-
-## 4/19
-
+# 5/12:
 replay #1:
-they always dodge in/sideways
-always land with a nair or sair
-don't always dodge after an attack
-dont use most of their jumps or dodge before landing
-recognized that they were blasters so no aerial options so i stacked on them and spammed spear nair which worked really well, made them instead do nix blasters nsig which is slow so i also punished that
-
-didnt realize in the moment but there were quite some times they anticipated my attack and backdashed, i couldve capitalized on this behavior by emptyhop nair? or turning in their direction to bait an attack action then turn reverse where they dash then sair? is this even feasible
-
-weapon starved good
-
-they were dodging in all game but never noticed till last stock
-
-if they awlays nair/sair when they land and they land a distance from me, i should anticpate that and jump beforehand
-
-# 4/20
-replay #1:
-- review:
-	- have better option select, so many times they dodged in front of you, and rather than bow slight to immediately punish, you greeded for dlight and they just jumped out of it
-	- continue practicing analyzing opponent, still hard to do that and more importantly even when you make these observations you don't ever capitalize on that
-	- stop trying to punish things you can't/greeding for the punish. practice either pretending punish to bait them or just reset back to neutral
-	- stop doing random edgeguard stuff like a random bow dair unless you know they will jump/why not just dash jump fastfall and pretend to dair instead
+- fix:
+	- missing punishes, don't be afraid to stand still. they daired you and missed and rather than punishing with slight you dashed toward them instead?
+	- if they use their dodge in front of you, try to capitalize on that more (if possible) but remember don't greed
+	- use better option select, they missed in front of you and rather than spear slight you just nlight and reset
+	- be more aware of when they're low on health to start looking for kills, you keep using normal strings
+	- if they knock you off stage (e.g. spear slight) and you dodge in and they catch that, observe that and next time just switch it up to go up or smt. 
+	- analyze your dodges and mix it up more, you keep spot dodging
+	- you keep playing so floaty, so they're used to it and use nsig, mix it up once in a while, if you see that they've observed that, dash in and bait their nsig up prediction, then punish!
+	- people are observant, you need to analyze that too. you predicted they would dodge left, and they did, but you failed to punish yet still dlighted in that direction. so next time you did it again but since they saw that you were about to punish that and just missed, they switched it up again and did down right instead and punished you trying to go for the old read
+	- bad option select, tried nsig when they're going up as opposed to dlight sair on spear
+	- greeding for punishes
+	- focus on punishing more, you're really bad at that and option select
 - good:
-	- you had good mixup of edgeguard lke low then high
+	- notice they always dodge right (confirmed 2x), punished them for it, then since they most likely will go opposite, read their left dodge too
 
+replay #2 (now that we're focusing on neutral game (3 states + gaining reaction info like what they do after missing, what they do after getting hit, what they do when landing) + punish (better option select, not greeding) practice):
+- fix:
+	- also remember to visualize threat zones aerially, they were on top of you on spear but you didn't nair
+	- (important) it's good that you analyzed them early (always dodge away or spot), but now you also need to make plans for how you want to play subsequent interactions to punish them too! like on spear, you just see their dodge, follow it and slight and dlight sair tc (true combo)
+	- always saw them dodge away but never punished it, not even on soft reads 
+	- keep trying to read them, you did that for some behaviors but not others. for example, they switched up their dodge to primarily dodge in but you never realized nor punished their dodging habits
+	- still greeding for punish, jiro did sword dsig half a stage away, yet you still tried to dash bow slight after but it was bad, a better opponent couldve wakeup punished
+	- on edge, try baiting out their attacks instead of immediately trying to get back up on stage, then when they overcommit either punish or use as a window to get back on stage safely
+- good:
+	- did soft reads to read them initially, better usage of spear slight this time to punish rather than a blank nlight
+	- identified that they were in disrespect state a few times, and punished them for that
+	- normally, you kind of lose focus after the first stock, but this time you kept gaining information. now instead of disrespect, they always did a wakeup, so next time you dodged in and out and baited it, then punished
+	- noticed more info about them too like, always using dsig or side sig on stage
+	- noticed when offstage they were predicting you 2x to go up and so they jumped sair, so on 3rd time you just went down
+	- conditioned them when edgeguarding - did dair on ground to make them think i was going to cover bottom which baited them to go more up when recovering, so i just dash jump saired
+	- first stock was 100-0 took 0 damage and 3-0'ed. could be a bad opponent like low gold though, but nevertheless good work for implementing concepts
+# tips 4/28:
+u analyzed he's aggressive trope always goes for wakeup and sairs when offstage trying to get back on and also when landing onstage so u baited it out then punished also noticed he always spot dodge so u punished albeit did so very late in last stock but also got dlight recv try the practice paying off! and predicted he would dodge in next since hes aggressive trope and i just punished his spot and he did and also punished him for that
+
+replay #1:
+- fix:
+	- stop randomly bow dairing to edgeguard - i actually don't know about this one, sometimes its good sometimes they just don't do anything so it misses then sair to punish and get back on stage for free
+	- did random gc's like gc unarmed slight but on center stage...
+	- focus more on info gathering so just keep practicing like your and their threat zones, or you don't even analyze if they constantly cross you or not
+	- when they read you, try to mix it up more. they read your away dodge and punished really hard 2x
+	- tried reading random stuff just for the sake of it like spear slight cc backwards dlight which is just same as if you just stood still and dlighted so wasted a dodge... like if you're going to read at least have it be based on info you gain in neutral
+	- not thinking of their threat zones as much, keep running into them and disrespecting them without realizing that you're in their range
+	- 
+- good:
+	- analyzed common behaviors from them and was consistently trying to get info
+
+replay #2\/3:
+- fix:
+	- need to weapon starve more
+	- these people are really, really really, good at tracking where i land, so where i land is predictable and they just throw an attack as i'm landing or when im in mid air; be more conscious of this and mix it up with like a emptyhop to bait or just try to fully reset when in disadvantage state, you're not really doing that
+	- practice recovering back to stage when offstage and find multiple ways to do it, you're getting a bit predictable cause you always go up aerially
+	- analyze yourself more during neutral like also capture what they analyzed about you since one game you always spot dodged and didn't notice till last stock
+	- need to stop autopiloting, focus and gain information
+	- people who weapon throw constantly vs. you are really good, you don't really seem to dodge that + it ruins your tempo a lot so that type of playstyle is pretty effective vs. you
+	- if you're good at one weapon but terrible at the other into the opponent just stick to the weapon you're good at. you keep switching and gaining a lead on good weapon but throwing it all away on the bad weapon
 # 4/22
 
 replay #1: vs. lucien
@@ -127,28 +104,82 @@ replay #3: vs. nix
 - good:
 	- realized they always approach with blasters sair or dash jump dair, so had good spacing around that and like baited their attack. also recognized that it's kind of hard punishing this most of the time at least in regard to your position, so you did not greed for punish
 	- good weapon throws, especially when they're off-stage to make them use a resource
-# tips 3/28:
-u analyzed he's aggressive trope always goes for wakeup and sairs when offstage trying to get back on and also when landing onstage so u baited it out then punished also noticed he always spot dodge so u punished albeit did so very late in last stock but also got dlight recv try the practice paying off! and predicted he would dodge in next since hes aggressive trope and i just punished his spot and he did and also punished him for that
+# 4/20
+replay #1:
+- review:
+	- have better option select, so many times they dodged in front of you, and rather than bow slight to immediately punish, you greeded for dlight and they just jumped out of it
+	- continue practicing analyzing opponent, still hard to do that and more importantly even when you make these observations you don't ever capitalize on that
+	- stop trying to punish things you can't/greeding for the punish. practice either pretending punish to bait them or just reset back to neutral
+	- stop doing random edgeguard stuff like a random bow dair unless you know they will jump/why not just dash jump fastfall and pretend to dair instead
+- good:
+	- you had good mixup of edgeguard lke low then high
+## 4/19
 
 replay #1:
-- fix:
-	- stop randomly bow dairing to edgeguard - i actually don't know about this one, sometimes its good sometimes they just don't do anything so it misses then sair to punish and get back on stage for free
-	- did random gc's like gc unarmed slight but on center stage...
-	- focus more on info gathering so just keep practicing like your and their threat zones, or you don't even analyze if they constantly cross you or not
-	- when they read you, try to mix it up more. they read your away dodge and punished really hard 2x
-	- tried reading random stuff just for the sake of it like spear slight cc backwards dlight which is just same as if you just stood still and dlighted so wasted a dodge... like if you're going to read at least have it be based on info you gain in neutral
-	- not thinking of their threat zones as much, keep running into them and disrespecting them without realizing that you're in their range
-	- 
-- good:
-	- analyzed common behaviors from them and was consistently trying to get info
+they always dodge in/sideways
+always land with a nair or sair
+don't always dodge after an attack
+dont use most of their jumps or dodge before landing
+recognized that they were blasters so no aerial options so i stacked on them and spammed spear nair which worked really well, made them instead do nix blasters nsig which is slow so i also punished that
 
-replay #2\/3:
-- fix:
-	- need to weapon starve more
-	- these people are really, really really, good at tracking where i land, so where i land is predictable and they just throw an attack as i'm landing or when im in mid air; be more conscious of this and mix it up with like a emptyhop to bait or just try to fully reset when in disadvantage state, you're not really doing that
-	- practice recovering back to stage when offstage and find multiple ways to do it, you're getting a bit predictable cause you always go up aerially
-	- analyze yourself more during neutral like also capture what they analyzed about you since one game you always spot dodged and didn't notice till last stock
-	- need to stop autopiloting, focus and gain information
-	- people who weapon throw constantly vs. you are really good, you don't really seem to dodge that + it ruins your tempo a lot so that type of playstyle is pretty effective vs. you
-	- if you're good at one weapon but terrible at the other into the opponent just stick to the weapon you're good at. you keep switching and gaining a lead on good weapon but throwing it all away on the bad weapon
-- good:
+didnt realize in the moment but there were quite some times they anticipated my attack and backdashed, i couldve capitalized on this behavior by emptyhop nair? or turning in their direction to bait an attack action then turn reverse where they dash then sair? is this even feasible
+
+weapon starved good
+
+they were dodging in all game but never noticed till last stock
+
+if they awlays nair/sair when they land and they land a distance from me, i should anticpate that and jump beforehand
+
+## 3/28:
+
+fix:
+- need to analyze their dodges more consciously with bow and spear then go for dodge punish
+- need to start conditioning them via dlight nlight to analyze jump pattern for nsig 
+- need to play more reactive not aggressive
+- stop dsiging when edge guard
+- if they're in the air punish with nlight or nair or recv u threw out a random slight lol
+- offstage stop gp, just dair or dont do anything
+- when they're in the air, wait for them to use their resources like a dodge then punish, you keep throwing random attacks
+- stop randomly dairing, it's expensive if u miss
+- identify areas where they cant punish you and if so just attack, like they were slightly above platform diagonal to you unarmed, you can just bow nsig and they likely cant punish?
+- stop doing random gc's
+- bad habit of spear nlight cc dlight
+- at the start of match, identify what attack angles their sigs are/kill options, like for example cassidy blasters you can just go diagonal since her sigs are horizontal and vertical
+- you keep letting them stack on you with no punish -> bow nlight and spear dsig
+- stop randomly spear sair
+- go in practie mode and have some character sig from a bit away then dash punish, you keep letting them go which can be good; greeding for punish when you can't is bad but still should be higher rate of punish
+- practice falling recovery? on bow
+- learn and practice how to kill earlier and more consistently. you can kill with kaya from 140-160 roughly and 170+ confirmed. but you let them get to 297 dmg before killing them...
+
+good:
+- in your last game of the day, you took feedback, read that opponent kept dodging down and punished. worth noting that it's still inconsistent, you don't know the punishes through and through yet so study them
+- good juggling and somewhat groundedness and center stage
+- good reactiveness but only tiny steps so far can be improved
+- stopped doing weird stuff offstage
+- used to just cling to wall offstage when recovering which is an easy gp for opponent, but now if stage is not a rectangle but like curved downwards then you just go in that pocket temporarily with a jump, then after they commit a gp you go up and escape since they're in recovery frames
+
+wins:
+- won series 2-1 vs current plat1 player and leading by damage in all games, just need learn and practice how to kill earlier
+- implemented some of the fixes from yesterday, such as reading their dodge and punishing them for it. still only did it once and it needs practice, but good that you're being more conscious overall and critically thinking during games
+
+## tips 3/27:
+
+fix:
+- stop throwing out dsig when edgeguarding or randomly
+- stop treating everything as neutral, when they're low start fishing for the bow dlight recovery and practice it
+- on spear, stop using dlight blindly - only use it to attack them when on edge via gc dlight, or with read on slight. 
+- try to analyze their dodge each time you slight with a nair, then next time dlight
+- start conditioning them via dlight nlight then switchup with dlight rec or dlight nsig
+- stop going offstage as bow and greeding with ground pound
+- stop randomly throwing weapon offstage unless protecting from gp and stop throwing weapon in general
+- if they throw out  sig or something with high recovery, punish it via a sig or heavier attack/string not just one attack
+- stop trying to read people, more so just play consistently
+- dodge item throws more consistently
+- remember bow and spear are not string weapons or heavy, they more so have good coverage instead and are good for 1-2 attacks at a time, so stop going for super long strings on spear aerially when they're not true, just reset and apply pressure instead of greeding cause you're getting punished for that
+
+good:
+- staying in center of stage more often but should be more conscious of it
+- good juggling of them in air with bow, like keeping them in air via nair and nlight
+- good spacing/punish via dash slight or dlight and consistent strings
+- being aware while on edge of what could kill you, e.g. bodvar sword dsig and trying to outspace and bait that
+- not greeding after spear nlight like impala said but rather just using it as a reset (historically you have greeded nlight cc side sig)

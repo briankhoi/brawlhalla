@@ -26,10 +26,13 @@ more tips for reading people:
 - if they start to slow down, it could be a sign that they're starting to adapt, so you can try a different read than normal
 - sometimes if they're really scared, they won't dodge since they're worried about giving away their dodge for free. so in that case it's option 3 aka they do nothing when you're the attacker so just do full string like spear slight dlight recv to kill
 - if you know you can't punish, you have two options. first is to just reset back to neutral. second is to do something like dash cancel or jump fastfall to make it seem like you will punish to bait out their attack, then you punish
+- if they knock you off stage (e.g. spear slight) and you dodge in and they catch that, observe that and next time just switch it up
 
 also note that you won't be able to pressure the same way all the time. so because of that it's important to always be mixing up how you approach people, for example maybe you backdodge or approach aerially or just straight up attacking them instead of delaying.
 
 also learn why people panic the way they do. 
+
+also read what they do after missing an attack (they typically attack again)
 
 
 to-do: learn the diff types of movement and how to incorporate them into pressure. stingray did a section of this. rn you only use emptyhop to pressure. dont know how to use dashcancel or fastfall change dir etc.

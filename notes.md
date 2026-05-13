@@ -8,6 +8,7 @@ current work:
 - still fundamentals of analyzing them, what do they do when pressured or when i hit them, attacker vs defender, and gaining info during neutral of their habits and punishing. don't think i've mastered that yet
 - movement, you're a bit too predictable aerially
 - tracking people when they're mid air and punishing them
+- neutral game (3 states + gaining reaction info like what they do after missing, what they do after getting hit, what they do when landing) + punish (better option select, not greeding) - try to always punish/don't attack first as much
 
 to-do:
 - blur background or use flower's black background/set black similar to impala, look in modhalla for instructions
@@ -15,6 +16,7 @@ to-do:
 - run game in admin mode?? why look into it ppl say it's better perf?
 - disable gadgets
 - set a banned map
+- after neutral game + punish fix, get better at bow and spear like bow slight walk forward nlight for example or bow sair jump cc reverse nair follow ups
 
 behavior (for now until you learn more):
 - stop going off stage randomly unless they have no jumps, you keep getting gimped

@@ -6,7 +6,7 @@ bow has a lot of range, only thing preventing you from taking over is your asser
 to do this, anytime you get the opportunity, string nair into recovery or nlight to keep the opponent constantly in the air
 
 when you go for a nair:
-- try to string for it again
+- try to string for it again 
 - if they go to the side you go for recovery
 - if they go to the side and you're grounded you can nlight and go for another attempted nair/recv
 
